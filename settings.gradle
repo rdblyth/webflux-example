@@ -1,0 +1,5 @@
+rootProject.name = 'webflux example'
+
+include 'mvc'
+include 'performance-test'
+include 'webflux'
